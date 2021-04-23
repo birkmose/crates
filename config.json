@@ -1,4 +1,4 @@
 {
-    "dl": "http://localhost:3000/api/v1/crates/{crate}/{version}/download",
-    "api": "http://localhost:3000"
+    "dl": "https://cargo.demo.heimdall.rs/api/v1/crates/{crate}/{version}/download",
+    "api": "https://cargo.demo.heimdall.rs/"
 }
