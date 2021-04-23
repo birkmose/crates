@@ -1,4 +1,4 @@
 {
     "dl": "https://cargo.demo.heimdall.rs/api/v1/crates/{crate}/{version}/download",
-    "api": "https://cargo.demo.heimdall.rs/"
+    "api": "https://cargo.demo.heimdall.rs"
 }
